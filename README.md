@@ -11,4 +11,4 @@ This script executes every possible starting state of a universal Turing machine
 Because of the Church–Turing thesis, that is equivalent to executing every single computer program, even those that would be impossible to write intentionally, such as programs that solve the Halting Problem.
 If it is possible to create consciousness on a classical computer, this program does it.
 
-The universal Turing machine used is the (15,2) machine described by [Neary and Woods (2009)](https://www.doi.org/10.3233/FI-2009-0008).
+The universal Turing machine used is the (15,2) machine described by [Neary and Woods (2009)](http://doi.org/10.3233/FI-2009-0036).
